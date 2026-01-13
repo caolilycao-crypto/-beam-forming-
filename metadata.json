@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Phased Array Beamforming Simulator",
+  "description": "An interactive tool for visualizing 1D linear array factors, analyzing phase quantization effects (6-bit), and calculating beamsteering metrics like Sidelobe Level (SLL) and Beam Offset.",
+  "requestFramePermissions": []
+}
